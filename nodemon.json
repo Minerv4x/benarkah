@@ -1,0 +1,9 @@
+{
+    "watch": [
+      "controllers/mainController.js",
+      "routes/animeRoutes.js",
+      "server.js"
+    ],
+    "ext": "js,json"
+  }
+  
