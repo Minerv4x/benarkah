@@ -249,7 +249,7 @@ class MainController {
   async listWithPage(req, res) {
     const { page } = req.params;
     const url = `https://samehadaku.click/daftar-anime/page/${page}/`;
-  //ss
+  //sss
     try {
       const response = await axios.get(url);
       const html = response.data;
